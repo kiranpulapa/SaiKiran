@@ -1,0 +1,2 @@
+Learning Git
+Git bash Windows 64 bit
